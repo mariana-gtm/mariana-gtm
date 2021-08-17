@@ -16,6 +16,8 @@ See my achivements and other cool stuff on my linkedin: [linkedin.com](https://w
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+## My Resume
+![](http://www.webpassos.com.br/mariana-guimaraes)
 
 
 
