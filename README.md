@@ -6,7 +6,7 @@ See my achivements and other cool stuff on my linkedin: [linkedin.com](https://w
 
 ## Socials
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianagtm/)](https://www.linkedin.com/in/sfourm/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianagtm/)](https://www.linkedin.com/in/marianagtm/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marianagtm/)
 [![Gmail](https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white)](mariana.gtm@hotmail.com)
 ## Main interests / skills
